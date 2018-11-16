@@ -1,0 +1,1 @@
+{"loss_type": "postfix", "item_embed_size": 512, "project_name": "svae_netflix-full", "latent_size": 128, "data_base": "../saved_data/netflix-full/pro_sg/", "rnn_size": 400, "hidden_size": 300}
